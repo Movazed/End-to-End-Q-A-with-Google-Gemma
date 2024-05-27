@@ -1,27 +1,18 @@
 
 ## Tech Stack
+The project utilizes the following technologies:
 
-faiss-cpu 
-
-groq
-
-langchain-groq
-
-PyPDF2
-
-langchain-google-genai
-
-langchain
-
-streamlit
-
-langchain-community
-
-python-dotenv
-
-pypdf
-
-google-cloud-aiplatform>=1.38
+- **faiss-cpu**: Efficient similarity search and clustering of dense vectors.
+- **groq**: Library for executing AI models on Groq hardware.
+- **langchain-groq**: Integration of LangChain with Groq hardware.
+- **PyPDF2**: Library to work with PDF files.
+- **langchain-google-genai**: Integration of LangChain with Google GenAI services.
+- **langchain**: Framework for developing applications using language models.
+- **streamlit**: Tool for building web interfaces for the application.
+- **langchain-community**: Community-driven extensions and integrations for LangChain.
+- **python-dotenv**: Manages environment variables.
+- **pypdf**: Another library to work with PDF files, providing additional features.
+- **google-cloud-aiplatform**: Google Cloud AI Platform library, version 1.38 or higher.
 
 # End to End Q&A with Google Gemma
 
